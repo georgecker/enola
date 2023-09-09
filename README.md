@@ -1,1 +1,16 @@
-# enola
+# **ENOLA**
+
+`**ENOLA** acts a my personal WEB_PAGE`
+
+`FRONTEND IS BUILD IN VUE_JS` `BACKEND is WORK_IN_PROGRESS`
+
+`PRACTICE PURPOSE is improvments in JS_DEVELOPMENT`
+
+`LIBARIES I want to INCLUDE are :`
+
+`[ ] THREE_JS`
+
+`[ ] VUE_JS`
+
+`[ ] ADD_VR_CAPABILITY`
+
